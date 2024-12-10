@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VSIXMDFTemplate.949dbe69-8246-43e5-8715-50bbc7788c7m" Version="1.0" Language="en-US" Publisher="MicroDomainFlow" />
+        <Identity Id="VSIXMDFTemplate.949dbe69-8246-43e5-8715-50bbc7788c7m" Version="1.1" Language="en-US" Publisher="MicroDomainFlow" />
         <DisplayName>VSIXMDFTemplate</DisplayName>
         <Description xml:space="preserve">Micro Domain Flow VSIX Template Project.</Description>
         <MoreInfo>https://github.com/MicroDomainFlow/VSIXTemplate</MoreInfo>
